@@ -1,0 +1,130 @@
+.container {
+	font-family: "Montserrat", sans-serif;
+	font-size: 22px;
+  font-weight: 400;
+  color: #293651;
+	padding-inline-start: 15%;
+	padding-left: 13%;
+	padding-top: 2%;
+}
+
+.title {
+	color: #00a78e;
+	font-size: 28px;
+	font-weight: lighter;
+	letter-spacing: 1.6pt;
+	text-align: left;
+	line-height: 1;
+	margin-top: 3%;
+	word-spacing: 1pt;
+}
+
+.nome {
+	color: #293651;
+	font-size: 45px;
+	margin-top: 1%;
+	font-weight: 900;
+	letter-spacing: 0pt;
+}
+
+.profissao {
+	color: #293651;
+	font-weight: lighter;
+	letter-spacing: 3pt;
+	font-size: 30px;
+}
+
+.descricao {
+	color: #787e83;
+	font-size: 22px;
+	}
+
+.foto{
+	text-align: center;
+	margin-inline-end: 0px;
+	margin-bottom: 0;
+		
+}
+
+.btn{
+  background-color:#00a78e;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 15px 50px;
+  border-radius: 10px;
+  font-size: 20px;
+	line-height: 3;
+}
+
+/*
+	padding-right: 20%;
+	margin-top: 5%;
+	padding-inline-start: 10%;
+	color: #000000;
+	}
+/*
+	
+	/*
+
+/*.container {
+  font-weight: 300;
+  align-content: center;
+  margin-bottom: 0%;
+}
+
+/*
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #293651;
+}
+
+.title1 { 
+	font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+/*
+.titulo-apresentacao {
+  font-size: 30px;
+  word-spacing: 3pt;
+  color: #20a78e;
+  font-weight: lighter;
+  text-align: left;
+  line-height: 1;
+  margin-top: 3%;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #293651;
+  margin-top: 30px;
+  filter: contrast(90%) brightness(110%);
+}
+.container{
+  text-align: justify;
+  margin: 0px 140px;
+  /* letter-spacing: 1pt; */
+  /* padding: 50px 180px 0 180px; 
+
+.imagem{
+  text-align: center;
+  margin-left: 100px;
+}
+
+
+.btn{
+  background-color: rgb(48, 155, 119);
+  text-decoration: none;
+  padding: 15px 50px;
+  border-radius: 10px;
+  color: white;
+  font-size: 17px;
+}
+.subtitulo{ 
+  font-size: 29px; font-weight: 500;
+}
